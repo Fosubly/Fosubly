@@ -1,4 +1,4 @@
-[<img src="https://www.codewars.com/users/Fosubly/badges/large"></img>](https://www.codewars.com/users/Fosubly)
+[<img src="https://www.codewars.com/users/Fosubly/badges/large" align="center"></img>](https://www.codewars.com/users/Fosubly)
 
 <!--
 **Fosubly/Fosubly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
